@@ -1,5 +1,9 @@
 # v-icon-picker
 
+## Preview
+
+![ex](https://user-images.githubusercontent.com/84322691/120912065-5f4a8980-c6b6-11eb-87dc-2ba744677316.gif)
+
 ## Installation
 ```
 npm i v-icon-picker
