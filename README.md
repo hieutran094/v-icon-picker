@@ -8,11 +8,17 @@
 ```
 npm i v-icon-picker
 ```
+## Install Material Design Icons & Bootstrap
+```
+npm install @mdi/font bootstrap -D
+```
 
 ### Usage
 ```
+import "bootstrap-vue/dist/bootstrap-vue.css"; // required for css for v-icon-picker
+import '@mdi/font/css/materialdesignicons.css' //required for get list mdi Icon
 import VueIconPicker from "v-icon-picker";
-and then:
+
 Vue.use(VueIconPicker);
 ```
 ```
