@@ -38,3 +38,4 @@ Default: down
 * rowsize: Number rows of table icon. Default 4
 * colsize: Number cols of table icon. Default 4
 * @select: Select icon event
+### End
